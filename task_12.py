@@ -10,3 +10,4 @@ for x in range(a):
         if x + y == a and x * y == b:
             print(x, y)
             break
+
